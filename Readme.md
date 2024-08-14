@@ -44,7 +44,7 @@ Adaptação -> adaptação a mudanças
 
 ## Modelo estrutural - Épico, Funcionalidade e História
 
-
+![Histórias](https://github.com/MillenaSantos/Projeto/blob/main/assets/historias.png)
 
 
 
